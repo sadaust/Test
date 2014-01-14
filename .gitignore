@@ -12,6 +12,6 @@
 *.la
 *.a
 
-#meh
+#make commits smaller but need to be built on client befor being used
 *.sdf
 /debug
