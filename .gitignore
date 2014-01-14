@@ -14,4 +14,4 @@
 
 #make commits smaller but need to be built on client befor being used
 *.sdf
-Debug\*
+Debug
